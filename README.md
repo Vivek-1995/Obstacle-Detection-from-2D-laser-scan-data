@@ -1,7 +1,4 @@
 # Obstacle-Detection-from-2D-laser-scan-data
-First change the directory, where the sensor bag file is placed, then run the below command in terminal:<br />
-`rosbag play sensor.bag -l`<br />
-after executing the above command the Angle range of the obstacles and number of obstacles will be displayed.
 
 The node to launch the package is 'scan_value' and below command in another terminal will run the node:<br />
 `roslaunch task_1 task_1.launch`
