@@ -1,0 +1,4 @@
+<launch>
+  <node pkg = 'task_1' type ='task_1.py' name = 'scan_value' output= 'screen' />
+
+</launch>
